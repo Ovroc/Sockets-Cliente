@@ -1,0 +1,10 @@
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\bin\Debug\Socket_Cliente.exe.config
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\bin\Debug\Socket_Cliente.exe
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\bin\Debug\Socket_Cliente.pdb
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.csprojAssemblyReference.cache
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.Frm_Cliente.resources
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.Properties.Resources.resources
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.csproj.GenerateResource.cache
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.csproj.CoreCompileInputs.cache
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.exe
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Cliente\Socket_Cliente\obj\Debug\Socket_Cliente.pdb
